@@ -1,14 +1,17 @@
-________                    ___                             ___       ________                                       ___
-`MMMMMMMb.                  `MM                             `MM       `MMMMMMMb.                                     `MM
- MM    `Mb                   MM                              MM        MM    `Mb                     /                MM
- MM     MM    ___     ____   MM   __   ____  ___  __     ____MM        MM     MM   _____     ____   /M        ___     MM   ____
- MM    .M9  6MMMMb   6MMMMb. MM   d'  6MMMMb `MM 6MMb   6MMMMMM        MM     MM  6MMMMMb   6MMMMb\/MMMMM   6MMMMb    MM  6MMMMb\
- MMMMMMM(  8M'  `Mb 6M'   Mb MM  d'  6M'  `Mb MMM9 `Mb 6M'  `MM        MM    .M9 6M'   `Mb MM'    ` MM     8M'  `Mb   MM MM'    `
- MM    `Mb     ,oMM MM    `' MM d'   MM    MM MM'   MM MM    MM        MMMMMMM9' MM     MM YM.      MM         ,oMM   MM YM.
- MM     MM ,6MM9'MM MM       MMdM.   MMMMMMMM MM    MM MM    MM        MM        MM     MM  YMMMMb  MM     ,6MM9'MM   MM  YMMMMb
- MM     MM MM'   MM MM       MMPYM.  MM       MM    MM MM    MM        MM        MM     MM      `Mb MM     MM'   MM   MM      `Mb
- MM    .M9 MM.  ,MM YM.   d9 MM  YM. YM    d9 MM    MM YM.  ,MM        MM        YM.   ,M9 L    ,MM YM.  , MM.  ,MM   MM L    ,MM
-_MMMMMMM9' `YMMM9'Yb.YMMMM9 _MM_  YM._YMMMM9 _MM_  _MM_ YMMMMMM_      _MM_        YMMMMM9  MYMMMM9   YMMM9 `YMMM9'Yb._MM_MYMMMM9
 
+________                                       ___                          ____                                                ________                    ___                             ___
+`MMMMMMMb.                                     `MM                         6MMMMb\                 68b                          `MMMMMMMb.                  `MM                             `MM
+ MM    `Mb                     /                MM                        6M'    `                 Y89                           MM    `Mb                   MM                              MM
+ MM     MM   _____     ____   /M        ___     MM   ____         \M\ \M\ MM      __ ____  ___  __ ___ ___  __     __            MM     MM    ___     ____   MM   __   ____  ___  __     ____MM
+ MM     MM  6MMMMMb   6MMMMb\/MMMMM   6MMMMb    MM  6MMMMb\        \M\ \M\YM.     `M6MMMMb `MM 6MM `MM `MM 6MMb   6MMbMMM        MM    .M9  6MMMMb   6MMMMb. MM   d'  6MMMMb `MM 6MMb   6MMMMMM
+ MM    .M9 6M'   `Mb MM'    ` MM     8M'  `Mb   MM MM'    `         \M\ \M\YMMMMb  MM'  `Mb MM69 "  MM  MMM9 `Mb 6M'`Mb          MMMMMMM(  8M'  `Mb 6M'   Mb MM  d'  6M'  `Mb MMM9 `Mb 6M'  `MM
+ MMMMMMM9' MM     MM YM.      MM         ,oMM   MM YM.               \M\ \M\   `Mb MM    MM MM'     MM  MM'   MM MM  MM          MM    `Mb     ,oMM MM    `' MM d'   MM    MM MM'   MM MM    MM
+ MM        MM     MM  YMMMMb  MM     ,6MM9'MM   MM  YMMMMb           /M/ /M/    MM MM    MM MM      MM  MM    MM YM.,M9          MM     MM ,6MM9'MM MM       MMdM.   MMMMMMMM MM    MM MM    MM
+ MM        MM     MM      `Mb MM     MM'   MM   MM      `Mb         /M/ /M/     MM MM    MM MM      MM  MM    MM  YMM9           MM     MM MM'   MM MM       MMPYM.  MM       MM    MM MM    MM
+ MM        YM.   ,M9 L    ,MM YM.  , MM.  ,MM   MM L    ,MM        /M/ /M/L    ,M9 MM.  ,M9 MM      MM  MM    MM (M              MM    .M9 MM.  ,MM YM.   d9 MM  YM. YM    d9 MM    MM YM.  ,MM
+_MM_        YMMMMM9  MYMMMM9   YMMM9 `YMMM9'Yb._MM_MYMMMM9        /M/ /M/ MYMMMM9  MMYMMM9 _MM_    _MM__MM_  _MM_ YMMMMb.       _MMMMMMM9' `YMMM9'Yb.YMMMM9 _MM_  YM._YMMMM9 _MM_  _MM_ YMMMMMM_
+                                                                                   MM                            6M    Yb
+                                                                                   MM                            YM.   d9
+                                                                                  _MM_                            YMMMM9
 ${application.title} ${application.version}
 Powered by Spring Boot ${spring-boot.version}
